@@ -6,4 +6,4 @@ The code provided in the tutorials have been compiled and tested to run on my ma
 
 Minor code corrections have been made. 
 
-Notes - https://numoonchld.github.io/2019/05/07/cython-notes-0.html
+Notes - https://numoonchld.github.io/2019/05/08/cython-notes-0.html
